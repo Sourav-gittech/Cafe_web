@@ -1,4 +1,4 @@
-# Cafe Website 🍴
+# Cafe Website 🍕🍟🍔🥙🥫🍜🍴
 
 Welcome to the **Cafe Website** project! This is a responsive and visually appealing website designed to showcase the menu, services, and ambiance of a cafe. Built with **HTML**, **CSS**, **JavaScript** and **Bootatrap**, it provides an engaging user experience and adapts seamlessly to various devices.
 
